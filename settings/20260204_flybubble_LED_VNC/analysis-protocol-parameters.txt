@@ -7,7 +7,7 @@ dosexclassification,on
 docomputeperframefeatures,on
 docomputehoghofperframefeatures,off
 dojaabadetect,on
-dolocomotionmetrics,force
+dolocomotionmetrics,on
 docomputeperframestats,off
 doplotperframestats,off
 domakectraxresultsmovie,on
