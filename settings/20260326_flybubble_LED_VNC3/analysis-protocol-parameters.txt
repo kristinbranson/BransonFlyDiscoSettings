@@ -7,10 +7,11 @@ dosexclassification,on
 docomputeperframefeatures,on
 docomputehoghofperframefeatures,off
 dojaabadetect,on
-dolocomotionmetrics,force
+dolocomotionmetrics,off
 docomputeperframestats,off
 doplotperframestats,off
 domakectraxresultsmovie,on
 doapt,on
 domakeaptresultsmovie,on
 doautomaticcheckscomplete,force
+docleanup,force

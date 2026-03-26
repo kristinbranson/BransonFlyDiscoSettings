@@ -52,4 +52,7 @@ added filename for locostatsperexp to dataloc_params
 20260326
 added jaaba_detect_params.txt with fastcomputepffs,1
 added nottracking_aptv7_nowindowdata.jab to JAABA_classifier_params.txt
+added cleanup stage (docleanup,force) to delete perframe/apt*.mat files
+added cleanup_params.txt, blacklist_globs.txt, whitelist_globs.txt
+added cleanupparamsfilestr to dataloc_params.txt
 
