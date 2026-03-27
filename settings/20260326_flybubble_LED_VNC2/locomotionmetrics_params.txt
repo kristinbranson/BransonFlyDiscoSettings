@@ -12,3 +12,7 @@ ref_leg,6
 minPeakHeight,2
 minPeakDistance,5
 minPeakProminence,5
+walking_score_file,scores_Walk2
+onceiling_score_file,scores_onceiling_resnet_v2
+nottracking_score_file,scores_nottracking
+frac_onfloor_threshold,0.70

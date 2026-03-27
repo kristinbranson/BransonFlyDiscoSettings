@@ -49,3 +49,6 @@ added nottracking_aptv7_nowindowdata.jab to JAABA_classifier_params.txt
 added cleanup stage (docleanup,force) to delete perframe/apt*.mat files
 added cleanup_params.txt, blacklist_globs.txt, whitelist_globs.txt
 added cleanupparamsfilestr to dataloc_params.txt
+added onfloor filtering params to locomotionmetrics_params.txt: walking_score_file, onceiling_score_file, nottracking_score_file, frac_onfloor_threshold
+changed locomotionmetricsperexpfilestr to locostatsperexp_onfloor.mat in dataloc_params.txt
+updated nottracking classifier from nottracking_aptv7_nowindowdata.jab to nottracking_aptv7p1.jab
