@@ -58,3 +58,6 @@ VNC3 ports below are all from 20260326_flybubble_LED_VNC3
   desired_files barcode cx__BARCODE.csv -> MSA__BARCODE.csv
 - registration_params.txt: doTemporalTruncation 0 -> 600 (truncate black frames at end of movie);
   simplified bowlMarkerType to single CircleTemplateLarge.png
+
+20260427
+- automatic_checks_complete_params.txt: min_num_flies 7 -> 4, min_num_males 3 -> 1, min_num_females 3 -> 1
