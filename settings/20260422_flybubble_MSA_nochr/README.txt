@@ -61,3 +61,7 @@ VNC3 ports below are all from 20260326_flybubble_LED_VNC3
 
 20260427
 - automatic_checks_complete_params.txt: min_num_flies 7 -> 4, min_num_males 3 -> 1, min_num_females 3 -> 1
+
+20260428
+- automatic_checks_incoming_params.txt: added max_num_flies_damaged,5 and max_num_flies_dead,5
+  to override auto fail and pipeline bypass if any dead or damaged flies

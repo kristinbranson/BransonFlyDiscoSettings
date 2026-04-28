@@ -57,3 +57,9 @@ updated nottracking classifier from nottracking_aptv7_nowindowdata.jab to nottra
 forked from 20260326_flybubble_LED_VNC3 for VNC4 screen
 (VNC4: followup experiments with known phenotypes)
 - automatic_checks_incoming_params.txt: desired_files barcode VNC3__BARCODE.csv -> VNC4__BARCODE.csv
+
+20260428
+- analysis-protocol-parameters.txt: dolocomotionmetrics force -> off
+  (production FlyDiscoAnalysis lacks up-to-date locomotion code)
+- automatic_checks_incoming_params.txt: added max_num_flies_damaged,5 and max_num_flies_dead,5
+  to override auto fail and pipeline bypass if any dead or damaged flies

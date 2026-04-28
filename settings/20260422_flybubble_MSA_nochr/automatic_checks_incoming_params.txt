@@ -6,3 +6,5 @@ control_line_names,pBDPGAL4U
 required_files,Metadata.xml,movie.ufmf
 desired_files,FlyBowlDataCaptureParams_BIAS*.txt,MSA__BARCODE.csv,Log.txt,QuickStats.png,QuickStats.txt,StimulusTimingLog.txt
 frame_rate,150
+max_num_flies_damaged,5
+max_num_flies_dead,5
