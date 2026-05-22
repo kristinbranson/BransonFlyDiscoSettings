@@ -4,7 +4,7 @@ max_seconds_fliesloaded,60
 min_movie_length_seconds, 595
 control_line_names,pBDPGAL4U
 required_files,Metadata.xml,movie.ufmf
-desired_files,FlyBowlDataCaptureParams_BIAS*.txt,MSA__*.csv,Log.txt,QuickStats.png,QuickStats.txt,StimulusTimingLog.txt
+desired_files,FlyBowlDataCaptureParams_BIAS*.txt,socialTrpA__BARCODE.csv,Log.txt,QuickStats.png,QuickStats.txt,StimulusTimingLog.txt
 frame_rate,150
 max_num_flies_damaged,5
 max_num_flies_dead,5
