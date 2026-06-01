@@ -68,3 +68,8 @@ added cleanup stage (matches VNC 20260326):
     20260518_flybubble_LED_reprocessregistrationbug_VNC
   dataloc_params.txt: added cleanupparamsfilestr,cleanup_params.txt
   analysis-protocol-parameters.txt: appended docleanup,force
+  
+20260601
+fixed markertemplate - claude kept old style per plate which caused all experiments to fail. 
+changed exceptable load time to 35 seconds
+
