@@ -73,3 +73,5 @@ added cleanup stage (matches VNC 20260326):
 fixed markertemplate - claude kept old style per plate which caused all experiments to fail. 
 changed exceptable load time to 35 seconds
 
+20260601
+the template for the marker was missing, copied over from /settings/20260422_flybubble_MSA_nochr/CircleTemplateLarge.png

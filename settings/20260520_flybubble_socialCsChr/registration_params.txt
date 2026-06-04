@@ -10,6 +10,7 @@ circleCannySigma,1
 circleNXTry,50
 circleNYTry,50
 circleNRTry,50
+# radius of chamber
 circleRadius_mm,26.689
 maxDistCornerFrac_BowlLabel,.12
 featureRadius,30
