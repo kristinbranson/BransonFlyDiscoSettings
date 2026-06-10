@@ -75,3 +75,6 @@ changed exceptable load time to 35 seconds
 
 20260601
 the template for the marker was missing, copied over from /settings/20260422_flybubble_MSA_nochr/CircleTemplateLarge.png
+
+20260610
+added the correct LED template file
