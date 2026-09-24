@@ -63,3 +63,8 @@ forked from 20260326_flybubble_LED_VNC3 for VNC4 screen
   (production FlyDiscoAnalysis lacks up-to-date locomotion code)
 - automatic_checks_incoming_params.txt: added max_num_flies_damaged,5 and max_num_flies_dead,5
   to override auto fail and pipeline bypass if any dead or damaged flies
+  
+20260924
+updated loco stage to match VNC3 20260622 update
+merged in /groups/branson/home/robiea/Code_versioned/BransonFlyDiscoSettings/settings/20260714_flybubble_LED_VNC4 - removes stale bransonlab/projects/olympiad/FlyBowlAnalysis paths
+
